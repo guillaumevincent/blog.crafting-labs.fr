@@ -1,0 +1,21 @@
+.left-image {
+	float: left;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+}
+
+.right-image {
+	float: right;
+	margin-left: 1rem;
+	margin-bottom: 1rem;
+}
+
+blockquote {
+	overflow: hidden;
+}
+
+.post {
+	overflow: auto;
+	border-bottom: 1px solid #e8e8e8;
+	margin-bottom: 2rem;
+}

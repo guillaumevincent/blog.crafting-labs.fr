@@ -114,7 +114,8 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
-
+    overflow: hidden;
+    
     > :last-child {
         margin-bottom: 0;
     }
