@@ -15,6 +15,7 @@ layout: default
     <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if post.categories %}
       {% for category in post.categories %}• {{ category }} {% endfor %}{% endif %}</p>
     {{ post.excerpt }}
+    <p><a href="{{ post.url }}" title="{{ post.title }}">Lire la suite</a></p>
   </article>
   {% endfor %}
 </div>
