@@ -19,4 +19,5 @@ excerpt_separator: "\n\n\n"
 
 
 pages_list:
+  Formations: '/formations'
   Contact: '/contact'
