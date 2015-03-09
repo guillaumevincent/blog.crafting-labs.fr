@@ -1,0 +1,275 @@
+RewriteEngine on
+RewriteCond %{QUERY_STRING} post/2008/07/20/108-dell-1720dn-drivers-linux
+RewriteRule ^(.*)$ /2008/07/20/108-dell-1720dn-drivers-linux? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2008/09/29/113-agile-project-management-with-scrum-ken-schwaber
+RewriteRule ^(.*)$ /2008/09/29/113-agile-project-management-with-scrum-ken-schwaber? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/01/20/Petite-phrase
+RewriteRule ^(.*)$ /2009/01/20/petite-phrase? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/02/10/Scrum-beer
+RewriteRule ^(.*)$ /2009/02/10/scrum-beer? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/02/14/Scrum-et-XP-depuis-les-.*
+RewriteRule ^(.*)$ /2009/02/14/scrum-et-xp-depuis-les-tranchees-henrik-kniberg? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/03/03/Inauguration-du-SUG-français-:-19-mars-2009
+RewriteRule ^(.*)$ /2009/03/03/inauguration-du-sug-francais-19-mars-2009? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/03/20/19-mars-2009-Inauguration-du-Scrum-User-Group-France
+RewriteRule ^(.*)$ /2009/03/21/19-mars-2009-inauguration-du-scrum-user-group-france? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/03/27/27-mars-2009-SigmaT-9
+RewriteRule ^(.*)$ /2009/03/27/27-mars-2009-sigmat-9? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/03/30/Le-test-Scrum-but
+RewriteRule ^(.*)$ /2009/03/30/le-test-scrum-but? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/03/20/loi-de-Conway
+RewriteRule ^(.*)$ /2009/04/02/loi-de-conway? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/04/06/Extreme-Programming-Explained:-Embrace-Change-Kent-Beck
+RewriteRule ^(.*)$ /2009/04/13/extreme-programming-explained-embrace-change-kent-beck? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/04/22/Mon-premier-World-Caf.*
+RewriteRule ^(.*)$ /2009/04/22/mon-premier-world-cafe? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/04/27/De-l-importance-des-estimations
+RewriteRule ^(.*)$ /2009/04/27/de-l-importance-des-estimations? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/05/12/Enqu.*
+RewriteRule ^(.*)$ /2009/05/12/enquete-nationale-sur-les-methodes-agiles? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/05/12/12-mai-2009-la-premi.*
+RewriteRule ^(.*)$ /2009/05/13/12-mai-2009-la-premiere-du-java-user-group-toulousain? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/06/16/Tapestry-5,-beaneditform-et-constructeurs
+RewriteRule ^(.*)$ /2009/06/16/tapestry-5-beaneditform-et-constructeurs? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/06/18/SigmaT-10-19-juin-2009-16h
+RewriteRule ^(.*)$ /2009/06/18/sigmat-10-19-juin-2009-16h? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/06/21/19-juin-2009-SigmaT-10
+RewriteRule ^(.*)$ /2009/06/21/19-juin-2009-sigmat-10? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/06/22/Nokia-test/-Scrum-But-test
+RewriteRule ^(.*)$ /2009/06/22/nokia-test-scrum-but-test? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/06/28/Nokia-test-/-Scrum-But-test-:-les-stats
+RewriteRule ^(.*)$ /2009/06/28/nokia-test-scrum-but-test-les-stats? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/07/07/Enqu.*
+RewriteRule ^(.*)$ /2009/07/07/enquete-nationale-sur-les-methodes-agiles-les-resultats? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/09/15/SigmaT-11-18-septembre-2009
+RewriteRule ^(.*)$ /2009/09/15/sigmat-11-18-septembre-2009? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/10/04/JUG-Toulouse-6-octobre-2009
+RewriteRule ^(.*)$ /2009/10/04/jug-toulouse-6-octobre-2009? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/10/22/22-octobre-2009-Agile-Tour-Toulouse
+RewriteRule ^(.*)$ /2009/11/01/22-octobre-2009-agile-tour-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/11/13/30-octobre-1-novembre-Les-Utopiales-de-Nantes
+RewriteRule ^(.*)$ /2009/11/13/30-octobre-1-novembre-les-utopiales-de-nantes? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/12/10/SigmaT-12-11-d.*
+RewriteRule ^(.*)$ /2009/12/10/sigmat-12-11-decembre-2009? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/12/10/JUG-Toulouse-15-d.*
+RewriteRule ^(.*)$ /2009/12/10/jug-toulouse-15-decembre-2009? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/12/14/11-d.*
+RewriteRule ^(.*)$ /2009/12/14/11-decembre-2009-sigmat-12? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/01/03/Sortie-du-livre-de-Claude-Aubry-sur-Scrum-le-10-f.*
+RewriteRule ^(.*)$ /2010/01/03/sortie-du-livre-de-claude-aubry-sur-scrum-le-10-fevrier-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/01/18/Kanban-et-Scrum-:-Tirer-le-meilleur-des-deux-la-traduction
+RewriteRule ^(.*)$ /2010/01/18/kanban-et-scrum-tirer-le-meilleur-des-deux-la-traduction? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/01/24/Programmation-GWT2-Sami-Jaber
+RewriteRule ^(.*)$ /2010/01/24/programmation-gwt2-sami-jaber? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/02/14/Kanban-et-Scrum-:-Tirer-le-meilleur-des-deux-les-figures-en-français.
+RewriteRule ^(.*)$ /2010/02/14/kanban-et-scrum-tirer-le-meilleur-des-deux-les-figures-en-francais? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/02/10/Formation-Scrum-par-Claude-Aubry
+RewriteRule ^(.*)$ /2010/02/16/formation-scrum-par-claude-aubry? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/02/17/15-mars-2010-Soir.*
+RewriteRule ^(.*)$ /2010/02/17/15-mars-2010-soiree-sug-france-avec-scott-ambler? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/02/23/SigmaT-13-19-mars-2010
+RewriteRule ^(.*)$ /2010/02/23/sigmat-13-19-mars-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/04/01/Soir.*
+RewriteRule ^(.*)$ /2010/04/02/soiree-anniversaire-du-scrum-user-group-france-30-mars-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/03/24/19-mars-2010-SigmaT13
+RewriteRule ^(.*)$ /2010/04/06/19-mars-2010-sigmat13? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/04/13/Revenir-en-2.0.1-sur-son-milestone
+RewriteRule ^(.*)$ /2010/04/13/revenir-en-2-0-1-sur-son-milestone? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/04/12/Les-secrets-de-la-communication-Richard-Bandler-John-Grindler
+RewriteRule ^(.*)$ /2010/05/01/les-secrets-de-la-communication-richard-bandler-john-grindler? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2009/10/04/Marzi-Marzena-Sowa,-Sylvain-Savoia
+RewriteRule ^(.*)$ /2010/05/01/marzi-marzena-sowa-sylvain-savoia? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/05/11/Atelier-BDD-Cucumber-10-mai-2010
+RewriteRule ^(.*)$ /2010/05/12/atelier-bdd-cucumber-10-mai-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/06/02/SigmaT-14-18-juin-2010
+RewriteRule ^(.*)$ /2010/06/02/sigmat-14-18-juin-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/06/07/JUG-Toulouse-15-juin-2010
+RewriteRule ^(.*)$ /2010/06/07/jug-toulouse-15-juin-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/06/15/15-juin-2010-JUG-Toulouse
+RewriteRule ^(.*)$ /2010/06/20/15-juin-2010-jug-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/06/30/Un-peu-d-histoire
+RewriteRule ^(.*)$ /2010/06/30/un-peu-d-histoire? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/09/06/SigmaT-15-17-septembre-2010
+RewriteRule ^(.*)$ /2010/09/05/sigmat-15-17-septembre-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/09/06/Agile-Tour-Toulouse-Appel-.*
+RewriteRule ^(.*)$ /2010/09/06/agile-tour-toulouse-appel-a-orateurs? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/09/10/Le-calendrier-des-manifestions-agiles
+RewriteRule ^(.*)$ /2010/09/09/le-calendrier-des-manifestions-agiles? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/09/16/The-program-Eclipse-received-an-X-Window-System-error.
+RewriteRule ^(.*)$ /2010/09/16/the-program-eclipse-received-an-x-window-system-error? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/09/17/fichiers-.properties-java-en-UTF-8-avec-maven
+RewriteRule ^(.*)$ /2010/09/25/fichiers-properties-java-en-utf-8-avec-maven? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/10/18/Scrum-et-Kanban-.*
+RewriteRule ^(.*)$ /2010/10/18/scrum-et-kanban-a-l-agile-tour-toulouse-le-21-octobre-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/10/22/21-octobre-2010-Agile-Tour-Toulouse
+RewriteRule ^(.*)$ /2010/10/23/21-octobre-2010-agile-tour-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/10/19/JUG-Toulouse,-Scala-the-cloud-5-novembre-2010
+RewriteRule ^(.*)$ /2010/10/23/jug-toulouse-scala-the-cloud-5-novembre-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/11/03/Agile-Coaching-Rachel-Davies-et-Liz-Sedley
+RewriteRule ^(.*)$ /2010/11/03/agile-coaching-rachel-davies-et-liz-sedley? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/11/17/architecture-logiciel
+RewriteRule ^(.*)$ /2010/11/17/architecture-logiciel? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/11/28/JUG-Toulouse,-Scala,-la-revanche-2-d.*
+RewriteRule ^(.*)$ /2010/11/28/jug-toulouse-scala-la-revanche-2-decembre-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/11/29/SigmaT-16-10-d.*
+RewriteRule ^(.*)$ /2010/11/29/sigmat-16-10-decembre-2010? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2010/12/06/Prezi-offline-sous-linux
+RewriteRule ^(.*)$ /2010/12/07/prezi-offline-sous-linux? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/01/31/JUnit-Mise-en-oeuvre-pour-automatiser-les-tests-en-Java-Benoit-Gantaume
+RewriteRule ^(.*)$ /2011/02/02/junit-mise-en-oeuvre-pour-automatiser-les-tests-en-java-benoit-gantaume? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/02/21/JUG-Toulouse,-Maven-3-//-Graddle-16-mars-2011
+RewriteRule ^(.*)$ /2011/02/21/jug-toulouse-maven-3-graddle-16-mars-2011? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/02/27/21-f.*
+RewriteRule ^(.*)$ /2011/02/27/21-fevrier-2011-aperoweb-toulouse-web-et-agilite? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/02/27/Vous,-votre-organisation-et-l-approche-Agile-en-2011
+RewriteRule ^(.*)$ /2011/02/27/vous-votre-organisation-et-l-approche-agile-en-2011? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/02/27/Et-pour-quelques-certifications-de-plus
+RewriteRule ^(.*)$ /2011/02/27/et-pour-quelques-certifications-de-plus? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/03/02/Scrum-Day,-Issy-les-Moulineaux-31-mars-2011
+RewriteRule ^(.*)$ /2011/03/02/scrum-day-issy-les-moulineaux-31-mars-2011? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/03/10/SigmaT-17-7-avril-2011
+RewriteRule ^(.*)$ /2011/03/14/sigmat-17-7-avril-2011? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/03/22/16-mars-2011-Maven-3-//-Graddle-Toulouse-JUG
+RewriteRule ^(.*)$ /2011/03/23/16-mars-2011-maven-3-graddle-toulouse-jug? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/03/30/29-mars-2011-Ap.*
+RewriteRule ^(.*)$ /2011/03/30/29-mars-2011-aperoweb-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/04/02/31-mars-2011-ScrumDay-Scrum-User-Group
+RewriteRule ^(.*)$ /2011/04/03/31-mars-2011-scrumday-scrum-user-group? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/04/08/Kanban-Scrum,-tirer-le-meilleur-des-deux-la-vid.*
+RewriteRule ^(.*)$ /2011/04/08/kanban-scrum-tirer-le-meilleur-des-deux-la-video-du-scrumday? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/04/10/7-avril-2011-SigmaT17-sous-le-signe-du-Product-Owner
+RewriteRule ^(.*)$ /2011/04/10/7-avril-2011-sigmat17-sous-le-signe-du-product-owner? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/04/11/J-.*
+RewriteRule ^(.*)$ /2011/04/12/j-ecris-du-code? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/04/13/(code-art)
+RewriteRule ^(.*)$ /2011/04/13/code-art? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/04/27/26-avril-2011-Ap.*
+RewriteRule ^(.*)$ /2011/04/29/26-avril-2011-aperoweb-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/05/10/dojo.codedemerde.net
+RewriteRule ^(.*)$ /2011/05/10/dojo-codedemerde-net? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/04/29/R.*
+RewriteRule ^(.*)$ /2011/05/17/retrospective-facon-speedboat-game? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/05/27/methodologie
+RewriteRule ^(.*)$ /2011/05/27/methodologie? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/05/30/Scrum,-Kanban-et-Devops-SUG-France-24-juin-2011
+RewriteRule ^(.*)$ /2011/05/31/scrum-kanban-et-devops-sug-france-24-juin-2011? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/06/08/Des-vacances-agiles-au-Quebec
+RewriteRule ^(.*)$ /2011/06/08/des-vacances-agiles-au-quebec? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/06/22/Le-mythe-de-l-industrialisation-du-d.*
+RewriteRule ^(.*)$ /2011/06/22/le-mythe-de-l-industrialisation-du-developpement-logiciel? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/06/25/24-juin-2011-Scrum,-Kanban-et-Devops-au-Scrum-User-Group-France
+RewriteRule ^(.*)$ /2011/06/25/24-juin-2011-scrum-kanban-et-devops-au-scrum-user-group-france? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/07/09/Enqu.*
+RewriteRule ^(.*)$ /2011/07/09/enquete-c-est-quoi-un-developpeur? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/07/17/15-juillet-2011-panier-repas-agile
+RewriteRule ^(.*)$ /2011/07/17/15-juillet-2011-panier-repas-agile? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/08/12/LightAddict
+RewriteRule ^(.*)$ /2011/08/12/lightaddict? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/08/10/Retrospective-façon-5-pourquoi
+RewriteRule ^(.*)$ /2011/08/19/retrospective-facon-5-pourquoi? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/08/22/Quel-langue-pour-le-code
+RewriteRule ^(.*)$ /2011/08/22/quel-langue-pour-le-code? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/09/03/Toulouse-JUG-Soir.*
+RewriteRule ^(.*)$ /2011/09/03/toulouse-jug-soiree-java-7-14-septembre-2011? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/09/07/Coding-Dojo-Ap.*
+RewriteRule ^(.*)$ /2011/09/07/coding-dojo-aperoweb-15-septembre-2011? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/09/09/Scrum,-le-guide-pratique,-2nde-.*
+RewriteRule ^(.*)$ /2011/09/09/scrum-le-guide-pratique-2nde-edition-claude-aubry? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/09/14/annuler-le-dernier-commit-avec-svn
+RewriteRule ^(.*)$ /2011/09/14/annuler-le-dernier-commit-avec-svn? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/09/20/Sky-Castle-Game-Agile-Tour-Toulouse-et-Bordeaux
+RewriteRule ^(.*)$ /2011/09/20/sky-castle-game-agile-tour-toulouse-et-bordeaux? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/10/24/19-octobre-2011-Agile-Tour-Toulouse
+RewriteRule ^(.*)$ /2011/10/24/19-octobre-2011-agile-tour-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/11/05/Code-Retreat-Toulouse-3-d.*
+RewriteRule ^(.*)$ /2011/11/12/code-retreat-toulouse-3-decembre? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2011/11/21/intervention-.*
+RewriteRule ^(.*)$ /2011/11/22/intervention-a-l-ensicaen? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/01/02/Software-Craftsmanship-.*
+RewriteRule ^(.*)$ /2012/01/02/software-craftsmanship-a-toulouse-5-janvier-2012? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/01/09/Software-Craftsmanship-.*
+RewriteRule ^(.*)$ /2012/01/09/software-craftsmanship-a-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/01/15/dedoublement-de-blog
+RewriteRule ^(.*)$ /2012/01/16/dedoublement-de-blog? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/01/17/Agile-Open-Sud-1617-mars-2012
+RewriteRule ^(.*)$ /2012/01/17/agile-open-sud-1617-mars-2012? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/02/06/1er-coding-dojo-Software-Craftsmanship-Toulouse
+RewriteRule ^(.*)$ /2012/02/06/1er-coding-dojo-software-craftsmanship-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/02/03/Agilit.*
+RewriteRule ^(.*)$ /2012/02/08/agilite-dans-les-iut? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/02/10/Code-Retreat-:-le-second-effet-kiss-cool
+RewriteRule ^(.*)$ /2012/02/10/code-retreat-le-second-effet-kiss-cool? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/02/28/CodeRetreat-Montpellier-et-Lyon
+RewriteRule ^(.*)$ /2012/02/28/coderetreat-montpellier-et-lyon? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/03/19/Agile-Open-Sud
+RewriteRule ^(.*)$ /2012/03/20/agile-open-sud? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/04/02/Lean-depuis-les-tranchees-Henrik-Kniberg-Traduction-en-francais
+RewriteRule ^(.*)$ /2012/04/02/lean-depuis-les-tranchees-henrik-kniberg-traduction-en-francais? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/04/18/Code-Coffee-le-jeudi-.*
+RewriteRule ^(.*)$ /2012/04/18/code-coffee-le-jeudi-a-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/04/27/Mix-IT-26-avril-2012
+RewriteRule ^(.*)$ /2012/05/02/mix-it-26-avril-2012? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/06/11/CodeRetreat-Toulouse-le-23-juin
+RewriteRule ^(.*)$ /2012/06/11/coderetreat-toulouse-le-23-juin? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/06/14/Mythe-:-le-TDD-c-est-pour-les-dieux-du-code
+RewriteRule ^(.*)$ /2012/06/14/mythe-le-tdd-c-est-pour-les-dieux-du-code? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/06/14/Mythe-:-les-d.*
+RewriteRule ^(.*)$ /2012/06/14/mythe-les-developpeurs-sont-des-ressources? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/06/14/Mythe-:-les-logiciels-bugg.*
+RewriteRule ^(.*)$ /2012/06/14/mythe-les-logiciels-bugges-c-est-normal? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/07/11/Mythe-:-on-peut-s-occuper-de-la-qualit.*
+RewriteRule ^(.*)$ /2012/07/11/mythe-on-peut-s-occuper-de-la-qualite-apres? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/08/06/Mythe-:-un-code-de-qualit.*
+RewriteRule ^(.*)$ /2012/08/06/mythe-un-code-de-qualite-est-largement-commente? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/08/13/ArdFeedback
+RewriteRule ^(.*)$ /2012/08/13/ardfeedback? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/10/14/Mon-petit-Tour-Agile-2012
+RewriteRule ^(.*)$ /2012/10/18/mon-petit-tour-agile-2012? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/10/30/Agile-Tour-Pau
+RewriteRule ^(.*)$ /2012/10/30/agile-tour-pau? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2012/11/13/Global-Day-of-CodeRetreat-Toulouse
+RewriteRule ^(.*)$ /2012/11/13/global-day-of-coderetreat-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/01/07/De-l-utilit.*
+RewriteRule ^(.*)$ /2013/01/07/de-l-utilite-des-estimations? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/01/11/We-Meet-In-Toulouse
+RewriteRule ^(.*)$ /2013/01/11/we-meet-in-toulouse? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/01/14/Procrastination-John-Perry
+RewriteRule ^(.*)$ /2013/01/14/procrastination-john-perry? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/01/16/Accents,-capitales-et-majuscules
+RewriteRule ^(.*)$ /2013/01/16/accents-capitales-et-majuscules? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/05/02/La-dictature-des-chiffres
+RewriteRule ^(.*)$ /2013/05/02/la-dictature-des-chiffres? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/05/21/https,-analytics-et-commentaires
+RewriteRule ^(.*)$ /2013/05/21/https-analytics-et-commentaires? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/07/02/BrownBag-Lunch-.*
+RewriteRule ^(.*)$ /2013/07/02/brownbag-lunch-a-toulouse-et-ailleurs? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/09/04/Tests-unitaire-:-je-voudrais-ben,-mais-je-peux-point...
+RewriteRule ^(.*)$ /2013/09/04/tests-unitaire-je-voudrais-ben-mais-je-peux-point? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/09/17/Formations-TDD/Clean-Code
+RewriteRule ^(.*)$ /2013/09/17/formations-tdd-clean-code? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/09/23/Software-Craftsmanship-.*
+RewriteRule ^(.*)$ /2013/09/23/software-craftsmanship-a-l-agile-tour? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/10/02/J-ai-pas-le-temps
+RewriteRule ^(.*)$ /2013/10/03/j-ai-pas-le-temps? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2013/10/21/Test-unitaire-et-methodes-privees
+RewriteRule ^(.*)$ /2013/10/21/test-unitaire-et-methodes-privees? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/01/17/les-100-meilleurs-developpeurs-preferes-des-francais
+RewriteRule ^(.*)$ /2014/01/17/les-100-meilleurs-developpeurs-preferes-des-francais? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/02/22/La-vision-du-lion
+RewriteRule ^(.*)$ /2014/02/27/la-vision-du-lion? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/04/23/Changer-le-monde
+RewriteRule ^(.*)$ /2014/04/23/changer-le-monde? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/09/15/Mock-et-singleton
+RewriteRule ^(.*)$ /2014/09/15/mock-et-singleton? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/11/04/Oui,-mais-mon-client...
+RewriteRule ^(.*)$ /2014/11/04/oui-mais-mon-client? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/09/15/Je-ne-suis-pas-un-codeur
+RewriteRule ^(.*)$ /2014/11/26/je-ne-suis-pas-un-codeur? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/12/16/Je-pose-ca-la
+RewriteRule ^(.*)$ /2014/12/16/je-pose-ca-la? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2014/12/16/une-histoire-du-temps
+RewriteRule ^(.*)$ /2014/12/16/une-histoire-du-temps? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2015/01/14/La-tentation-du-toujours-plus-de-regles
+RewriteRule ^(.*)$ /2015/01/14/la-tentation-du-toujours-plus-de-regles? [R=301,L]
+RewriteCond %{QUERY_STRING} post/2015/02/09/Une-formation-les-mains-dedans
+RewriteRule ^(.*)$ /2015/02/10/une-formation-les-mains-dedans? [R=301,L]
