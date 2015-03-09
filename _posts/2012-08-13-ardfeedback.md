@@ -82,7 +82,7 @@ Amusez vous, n'hésitez pas à forker et faire des PR pour proposer des améilio
 
 Enjoy !
 
-[![2012.08.10_-_Ardfeedback.008.jpg](https://blog.crafting-labs.fr/images/ardfeedback/.2012.08.10_-_Ardfeedback.008_m.jpg)
+[![2012.08.10-Ardfeedback.008.jpg](https://blog.crafting-labs.fr/images/ardfeedback/.2012.08.10_-_Ardfeedback.008_m.jpg)
 ](/images/ardfeedback/2012.08.10_-_Ardfeedback.008.jpg)
 
 # TL;DR

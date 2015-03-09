@@ -108,7 +108,7 @@ Bien sur, il leur faudra apprendre à utiliser correctement ces nouveaux outils,
 Au final, une présentation intéressante, où transparait toute l'expérience et la conviction d'Alex Boutin.
 
 ## Lean et Scrum, des alliés naturels -- Damien Thouvenin
-![DSC_0132.JPG](https://blog.crafting-labs.fr/images/2010.03.30_-_SUG/.DSC_0132_s.jpg){: .right-image}
+![DSC 0132.JPG](https://blog.crafting-labs.fr/images/2010.03.30_-_SUG/.DSC_0132_s.jpg){: .right-image}
 
 Bon, c'est la présentation qui m'intéressait le moins, non qu'il ne soit pas intéressant mais parce que j'avais déjà pas mal réfléchi au sujet suite à ma première rencontre avec [Alex Boutin](/index.php?post/2009/03/27/27-mars-2009-SigmaT-9), et après avoir travailleur sur la traduction de [Kanban et Scrum](/index.php?post/2010/02/14/Kanban-et-Scrum-%3A-Tirer-le-meilleur-des-deux-les-figures-en-fran%C3%A7ais.). En plus il était tard, et j'avais 700km dans les jambes. Je dois avouer ne pas avoir été le plus attentif du monde, j'espère que Damien ne m'en tiendra pas rigueur :)
 
@@ -132,7 +132,7 @@ Damien a ensuite parlé d'une forme de backlog différentes de la liste que l'on
 En bref, la présentation de Damien est agréable, c'est un orateur qui maîtrise son sujet. D'ailleurs, il le maitrise peut être un peu trop et a du mal à ne pas digresser et sortir de son objectif premier ce qui le rend un peu difficile à suivre. Cela dit, cela reste intéressant :)
 
 ## Le cocktail 
-![DSC_0136.JPG](https://blog.crafting-labs.fr/images/2010.03.30_-_SUG/.DSC_0136_s.jpg){: .left-image}
+![DSC 0136.JPG](https://blog.crafting-labs.fr/images/2010.03.30_-_SUG/.DSC_0136_s.jpg){: .left-image}
 
 Et oui, toute bonne soirée se fini par un coktail. Et là, c'était la grande classe. Rien de tel pour continuer les conversations que des petits fours, du champagne et des jus de fruit[^9]. De quoi poursuivre les discussions avec les orateurs, les présents et mes camarades du bureau du SUG.
 

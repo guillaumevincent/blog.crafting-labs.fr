@@ -54,7 +54,7 @@ Hop, je me ressers du format rétrospective de [Fabrice](http://www.fabrice-aime
 
 
 ##Remerciements
-[![DSC_5674.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5674_s.jpg){: .right-image}
+[![DSC 5674.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5674_s.jpg){: .right-image}
 ](/images/2011.03.16_-_JUG/DSC_5674.jpg)
 * Arnaud et Gregory, votre enthousiasme est ommunicatif
 * Epitech Toulouse qui une fois de plus nous a accueilli dans ses locaux
@@ -66,7 +66,7 @@ Hop, je me ressers du format rétrospective de [Fabrice](http://www.fabrice-aime
 * on prépare le programme de la prochaine soirée, fin avril, stay tunned[^2]
 
 
-[![DSC_5651.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5651_m.jpg)
+[![DSC 5651.jpg](https://blog.crafting-labs.fr/images/2011.03.16_-_JUG/.DSC_5651_m.jpg)
 ](/images/2011.03.16_-_JUG/DSC_5651.jpg)
 
 

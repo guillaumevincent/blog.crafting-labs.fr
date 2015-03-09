@@ -41,7 +41,7 @@ Je suis arrivé sur la fin de cette discussion qui avait l'air très intéressan
 La SCOP me semble un format plutôt sympa.
 
 ##Scrum & XP, le match au sommet
-[![2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044_s.jpg){: .right-image}
+[![2012.03.16-Agile Open Sud - Banyuls.0044.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044_s.jpg){: .right-image}
 ](/images/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0044.jpg)
 Juste avant le repas, un petit débat sur les frères ennemis de l'agilité :)
 Dans le coin gauche, eXtreme XP Programming, le changement social, dans le coin droit Scrum, la gestion des systèmes complexes.
@@ -70,7 +70,7 @@ Mais en changeant un peu la dynamique du jeu[^4], on doit pouvoir mettre en évi
 À réfléchir à l'occasion.
 
 ##Sociocratie
-[![2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107_s.jpg){: .left-image}
+[![2012.03.16 - Agile Open Sud - Banyuls.0107.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107_s.jpg){: .left-image}
 ](/images/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0107.jpg)
 La sociocratie est un mode de décision et de gouvernance ouvert et auto organisé. Jettez donc un oeil sur [Sociocratie sur Wikipedia](http://fr.wikipedia.org/wiki/Sociocratie).
 
@@ -103,7 +103,7 @@ Alors que les fans de rugby[^6] s'installait devant France-Galles, le reste des 
 * clairement, c'était trop court. Bien que sur deux jours, l'évènement en lui même n'a duré qu'à peine 24h. Une journée de plus n'aurait pas été de trop. Peut être deux.
 * le déroulement était un peu chaotique. Cela à peut être manqué d'un rythme un peu régulier et d'un peu plus de visibilité sur les sessions.
 * démarrage peut être un peu tard dans la journée du vendredi. On pourrait envisager de se servir du repas de midi comme ice breaker ?
-[![2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216_s.jpg){: .right-image}
+[![2012.03.16 - Agile Open Sud - Banyuls.0216.jpg](https://blog.crafting-labs.fr/images/2012.03_-_Agile_Open_Sud/.2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216_s.jpg){: .right-image}
 ](/images/2012.03_-_Agile_Open_Sud/2012.03.16_-_Agile_Open_Sud_-_Banyuls.0216.jpg)
 # Ils en parlent aussi
 * Alexis : [Agile Open Sud 2012](http://ayeba.fr/2012/03/agile-open-sud-2012/)

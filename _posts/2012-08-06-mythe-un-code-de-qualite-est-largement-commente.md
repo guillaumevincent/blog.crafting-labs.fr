@@ -9,7 +9,7 @@ categories:
 - "craftsmanship"
 - "mythe"
 ---
-![useless_comment2.jpg](https://blog.crafting-labs.fr/images/illustration/useless_comment2.jpg){: .left-image}
+![useless comment2.jpg](https://blog.crafting-labs.fr/images/illustration/useless_comment2.jpg){: .left-image}
 Quand j'aborde le sujet de la qualité du code avec un nouveau groupe, dans un coding dojo ou en établissant la signification de fini par exemple, il arrive toujours un moment comme ça :
 
 > dev : et il faut que tout soit largement commenté et que la javadoc soit à jour
@@ -31,7 +31,7 @@ En fait, un commentaire peut servir à décrire trois types d'informations :
 * pourquoi : pourquoi il le fait comme ça et pas d'une autre façon
 
 # Ce que fait le code
-[![useless_comment1.jpg](https://blog.crafting-labs.fr/images/illustration/.useless_comment1_s.jpg){: .right-image}
+[![useless comment1.jpg](https://blog.crafting-labs.fr/images/illustration/.useless_comment1_s.jpg){: .right-image}
 ](/images/illustration/useless_comment1.jpg)La plupart du temps, on trouve ça dans un petit commentaire au-dessus de chaque classe et méthode. Les fameux commentaires javadoc[^1].
 
 Bien souvent, la trame de ces commentaires est auto générée par l'IDE, et trop souvent laissé telle quelle.
@@ -64,7 +64,7 @@ Bon, encore faut-il faire des tests unitaires. J'en parlerai dans un prochain bi
 Note : pour ce qui est du commentaire qui parle du quoi, je fais une exception : il s'agit des API publiques. Je reviens dessus plus bas.
 
 # Comment il le fait
-[![useless_comment.jpg](https://blog.crafting-labs.fr/images/illustration/.useless_comment_s.jpg){: .left-image}
+[![useless comment.jpg](https://blog.crafting-labs.fr/images/illustration/.useless_comment_s.jpg){: .left-image}
 ](/images/illustration/useless_comment.jpg)Ces commentaires, on les retrouve directement dans le code. Il explique que là on démarre un bloc conditionnel, ou une boucle et qu'à tel autre endroit on le fini. Il dit que que c'est là qu'on gère les erreurs et ce qu'on fait dans ce cas là.
 
 Waaah... En fait, ces commentaires servent juste à expliquer ce que le code nous raconte de lui même. 
