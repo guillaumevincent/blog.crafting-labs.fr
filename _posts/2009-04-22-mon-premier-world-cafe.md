@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mon premier World Café"
-date: 2009-04-22 23:41:00 +0100
+date: 2009-04-22 22:41:00 +0100
 comments: false
 categories: 
 - "agilité"

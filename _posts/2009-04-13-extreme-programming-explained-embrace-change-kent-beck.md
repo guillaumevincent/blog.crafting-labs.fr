@@ -9,8 +9,8 @@ categories:
 - "lecture"
 - "xp"
 ---
-[![beck-XP eplained.jpg](https://blog.crafting-labs.fr/images/couverture/.beck_-_XP_eplained_s.jpg){: .left-image}
-|http://www.amazon.fr/gp/product/0321278658?ie=UTF8&tag=monbloamoique-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=0321278658]
+[![beck-XP eplained.jpg](https://blog.crafting-labs.fr/images/couverture/.beck_-_XP_eplained_s.jpg){: .left-image}](
+http://www.amazon.fr/gp/product/0321278658?ie=UTF8&tag=monbloamoique-21&linkCode=as2&camp=1642&creative=19458&creativeASIN=0321278658)
 Quatrième de couverture :
 
 > Software development projects can be fun, productive, and even daring. Yet they can consistently value to a business and remain under control.

@@ -15,6 +15,6 @@ Outre quelques changements de phrasés, cette version comporte une nouvelle ques
 J'ai évidemment mis à jour ma version online pour intégrer ces modifications. 
 C'est donc cette nouvelle version que vous pourrez passer en allant là : 
 
-[http://antoine.vernois.net/scrumbut]
+[http://antoine.vernois.net/scrumbut](http://antoine.vernois.net/scrumbut)
 
 

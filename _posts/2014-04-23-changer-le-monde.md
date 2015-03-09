@@ -8,8 +8,8 @@ categories:
 [![wall-e.jpeg](https://blog.crafting-labs.fr/images/illustration/.wall-e_s.jpg){: .left-image}
 ](/images/illustration/wall-e.jpeg)J'ai l'impression, depuis quelques temps, d'avoir régulièrement cette conversation et en 3 jours de Devoxx France, elle est revenue au moins 5 ou 6 fois. 
 
-
 > Comment on change le monde ? 
+
 
 Avec ses variantes : 
 * Comment on change les développeurs qui ne comprennent pas qu'ils doivent devenir professionnels ? 

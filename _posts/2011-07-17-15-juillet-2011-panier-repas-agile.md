@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "15 juillet 2011 -- panier repas agile"
-date: 2011-07-17 23:00:00 +0100
+date: 2011-07-17 22:00:00 +0100
 comments: false
 categories: 
 - "agilité"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cuisine et développement"
-date: 2011-06-22 23:06:00 +0100
+date: 2011-06-22 22:06:00 +0100
 comments: false
 categories: 
 - "apprentissage"

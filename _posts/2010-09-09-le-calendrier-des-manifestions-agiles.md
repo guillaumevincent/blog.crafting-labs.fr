@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le calendrier des manifestions agiles"
-date: 2010-09-09 23:16:00 +0100
+date: 2010-09-09 22:16:00 +0100
 comments: false
 categories: 
 - "agilité"

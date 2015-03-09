@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "dédoublement de blog"
-date: 2012-01-16 23:01:00 +0100
+date: 2012-01-16 22:01:00 +0100
 comments: false
 categories: 
 - "blog"

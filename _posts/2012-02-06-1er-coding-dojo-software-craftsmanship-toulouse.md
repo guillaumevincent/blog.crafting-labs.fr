@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1er coding dojo -- Software Craftsmanship Toulouse"
-date: 2012-02-06 23:21:00 +0100
+date: 2012-02-06 22:21:00 +0100
 comments: false
 categories: 
 - "coding dojo"

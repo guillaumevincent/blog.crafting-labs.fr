@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agile Coaching -- Rachel Davies et Liz Sedley"
-date: 2010-11-03 23:31:00 +0100
+date: 2010-11-03 22:31:00 +0100
 comments: false
 categories: 
 - "agilité"

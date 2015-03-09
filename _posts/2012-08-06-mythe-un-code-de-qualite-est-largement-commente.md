@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mythe : un code de qualité est largement commenté"
-date: 2012-08-06 23:14:00 +0100
+date: 2012-08-06 22:14:00 +0100
 comments: false
 categories: 
 - "code"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JUnit Mise en oeuvre pour automatiser les tests en Java -- Benoit Gantaume"
-date: 2011-02-02 23:31:00 +0100
+date: 2011-02-02 22:31:00 +0100
 comments: false
 categories: 
 - "chronique"
