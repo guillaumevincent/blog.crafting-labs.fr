@@ -42,3 +42,8 @@ fieldset {
 	border-radius: 3px;
 	
 }
+
+.comments h3 {
+	margin-top: 2em;
+	color: #666;
+}
