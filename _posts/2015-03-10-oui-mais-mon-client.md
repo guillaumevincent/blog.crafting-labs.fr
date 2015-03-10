@@ -23,7 +23,7 @@ Bon dès fois, client est remplacé par chef ou manager, mais ça ne change pas 
 
 
 Bon, déjà, si vous travaillez pour un gros compte, il est peu probable que vous parliez au client final, mais plus certainement à un intermédiaire qui voit dans la création de règle absurde le principal moyen de justifier son utilité.
-Parce qu'en réalité, la plupart du temps, les clients, ceux pour qui le logiciel qu'on réalise compte vraiment, la qualité ils s'en soucient, ils préfèrent avoir un poil moins de fonctionnalité qui marchent bien que de partir de le cycle infernal de la TMA.
+Parce qu'en réalité, la plupart du temps, les clients, ceux pour qui le logiciel qu'on réalise compte vraiment, la qualité ils s'en soucient, ils préfèrent avoir un poil moins de fonctionnalités qui marchent bien que de partir dans le cycle infernal de la TMA.
 
 Mais c'est vrai que des fois on tombe sur des gens qui nous tiennent ce discours, qui veulent nous dire comment faire notre métier.
 
@@ -34,7 +34,7 @@ Ensuite, c'est à lui de choisir ses outils pour faire le travail au mieux. Pers
 Enfin, si, des clients qui disent ça, il doit y en avoir[^1], mais je pense[^3] qu'aucun professionnel ne les écoute.
 
 Si tu es développeur, c'est à toi de choisir les outils pour réaliser le boulot à faire.
-Si tu es convaincu que le clean code, le tdd, le refactoring sont les bons outils pour faire une application qui soit maintenable dans le temps, évolutive et fiable[^2], ne laisse pas ton client te dire que tu peux pas t'en servir.
+Si tu es convaincu que le clean code, le tdd, le refactoring sont les bons outils pour faire une application qui soit maintenable dans le temps, évolutive et fiable[^2], ne laisse pas ton client te dire que tu ne peux pas t'en servir.
 
 C'est **ton** métier, c'est à **toi** de choisir. Il faut que ça rentre dans **ta** tête.
 
