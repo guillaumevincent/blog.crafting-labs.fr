@@ -1,4 +1,8 @@
+Redirect permanent /index.php /
+
 RewriteEngine on
+RewriteCond %{QUERY_STRING} feed/atom
+RewriteRule ^(.*)$ /feed.xml? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2008/07/20/108-dell-1720dn-drivers-linux
 RewriteRule ^(.*)$ /2008/07/20/108-dell-1720dn-drivers-linux? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2008/09/29/113-agile-project-management-with-scrum-ken-schwaber
