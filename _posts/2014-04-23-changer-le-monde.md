@@ -12,6 +12,7 @@ categories:
 
 
 Avec ses variantes : 
+
 * Comment on change les développeurs qui ne comprennent pas qu'ils doivent devenir professionnels ? 
 * Comment on change la communauté  .Net/Java/Ruby/Javascript ?
 * Comment on change ses collègues pour les convaincre qu'ils vont dans la mauvaise direction ? 
@@ -22,7 +23,6 @@ Avec ses variantes :
 Il y a des problèmes dans notre milieu du développement logiciel[^1], des choses dont on aimerait qu'elles changent pour être un peu plus propre, un peu plus juste, un peu plus vivable. 
 
 Moi aussi je me pose cette question. Du moins je me posais la question, car maintenant j'ai une réponse. 
-
 
 > On ne change pas le monde. 
 
@@ -51,7 +51,7 @@ Surtout dans un monde qui n'a pas la cohérence en haute estime.
 Mais je crois sincèrement que ça vaut le coup. Alors : 
 
 
-> __``<big>Faites des trucs</big>``__
+> __``Faites des trucs``__
 
 
 
