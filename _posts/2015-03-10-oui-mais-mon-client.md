@@ -29,7 +29,7 @@ Mais c'est vrai que des fois on tombe sur des gens qui nous tiennent ce discours
 
 Personnellement, quand j'engage quelqu'un pour faire un travail, je m'assure que ce soit quelqu'un de confiance qui connaît son métier.
 Ensuite, c'est à lui de choisir ses outils pour faire le travail au mieux. Personne n'ira jamais dire à un peintre que lisser les enduits, c'est une perte de temps. À un dentiste, que la fraise, ça consomme trop, un petit burin fera l'affaire. 
-À maçon, qu'à la place d'une truelle, il n'aura qu'à faire avec la pelle qu'il a déjà.
+À un maçon, qu'à la place d'une truelle, il n'aura qu'à faire avec la pelle qu'il a déjà.
 
 Enfin, si, des clients qui disent ça, il doit y en avoir[^1], mais je pense[^3] qu'aucun professionnel ne les écoute.
 
