@@ -111,8 +111,6 @@ RewriteCond %{QUERY_STRING} post/2010/10/19/JUG-Toulouse,-Scala-the-cloud-5-nove
 RewriteRule ^(.*)$ /2010/10/23/jug-toulouse-scala-the-cloud-5-novembre-2010? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2010/11/03/Agile-Coaching-Rachel-Davies-et-Liz-Sedley
 RewriteRule ^(.*)$ /2010/11/03/agile-coaching-rachel-davies-et-liz-sedley? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2010/11/17/architecture-logiciel
-RewriteRule ^(.*)$ /2010/11/17/architecture-logiciel? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2010/11/28/JUG-Toulouse,-Scala,-la-revanche-2-d.*
 RewriteRule ^(.*)$ /2010/11/28/jug-toulouse-scala-la-revanche-2-decembre-2010? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2010/11/29/SigmaT-16-10-d.*
@@ -127,8 +125,6 @@ RewriteCond %{QUERY_STRING} post/2011/02/27/21-f.*
 RewriteRule ^(.*)$ /2011/02/27/21-fevrier-2011-aperoweb-toulouse-web-et-agilite? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/02/27/Vous,-votre-organisation-et-l-approche-Agile-en-2011
 RewriteRule ^(.*)$ /2011/02/27/vous-votre-organisation-et-l-approche-agile-en-2011? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2011/02/27/Et-pour-quelques-certifications-de-plus
-RewriteRule ^(.*)$ /2011/02/27/et-pour-quelques-certifications-de-plus? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/03/02/Scrum-Day,-Issy-les-Moulineaux-31-mars-2011
 RewriteRule ^(.*)$ /2011/03/02/scrum-day-issy-les-moulineaux-31-mars-2011? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/03/10/SigmaT-17-7-avril-2011
@@ -145,8 +141,6 @@ RewriteCond %{QUERY_STRING} post/2011/04/10/7-avril-2011-SigmaT17-sous-le-signe-
 RewriteRule ^(.*)$ /2011/04/10/7-avril-2011-sigmat17-sous-le-signe-du-product-owner? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/04/11/J-.*
 RewriteRule ^(.*)$ /2011/04/12/j-ecris-du-code? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2011/04/13/(code-art)
-RewriteRule ^(.*)$ /2011/04/13/code-art? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/04/27/26-avril-2011-Ap.*
 RewriteRule ^(.*)$ /2011/04/29/26-avril-2011-aperoweb-toulouse? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/05/10/dojo.codedemerde.net
@@ -171,8 +165,6 @@ RewriteCond %{QUERY_STRING} post/2011/08/12/LightAddict
 RewriteRule ^(.*)$ /2011/08/12/lightaddict? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/08/10/Retrospective-façon-5-pourquoi
 RewriteRule ^(.*)$ /2011/08/19/retrospective-facon-5-pourquoi? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2011/08/22/Quel-langue-pour-le-code
-RewriteRule ^(.*)$ /2011/08/22/quel-langue-pour-le-code? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/09/03/Toulouse-JUG-Soir.*
 RewriteRule ^(.*)$ /2011/09/03/toulouse-jug-soiree-java-7-14-septembre-2011? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2011/09/07/Coding-Dojo-Ap.*
@@ -215,14 +207,6 @@ RewriteCond %{QUERY_STRING} post/2012/04/27/Mix-IT-26-avril-2012
 RewriteRule ^(.*)$ /2012/05/02/mix-it-26-avril-2012? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2012/06/11/CodeRetreat-Toulouse-le-23-juin
 RewriteRule ^(.*)$ /2012/06/11/coderetreat-toulouse-le-23-juin? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2012/06/14/Mythe-:-le-TDD-c-est-pour-les-dieux-du-code
-RewriteRule ^(.*)$ /2012/06/14/mythe-le-tdd-c-est-pour-les-dieux-du-code? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2012/06/14/Mythe-:-les-d.*
-RewriteRule ^(.*)$ /2012/06/14/mythe-les-developpeurs-sont-des-ressources? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2012/06/14/Mythe-:-les-logiciels-bugg.*
-RewriteRule ^(.*)$ /2012/06/14/mythe-les-logiciels-bugges-c-est-normal? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2012/07/11/Mythe-:-on-peut-s-occuper-de-la-qualit.*
-RewriteRule ^(.*)$ /2012/07/11/mythe-on-peut-s-occuper-de-la-qualite-apres? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2012/08/06/Mythe-:-un-code-de-qualit.*
 RewriteRule ^(.*)$ /2012/08/06/mythe-un-code-de-qualite-est-largement-commente? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2012/08/13/ArdFeedback
@@ -239,16 +223,10 @@ RewriteCond %{QUERY_STRING} post/2013/01/11/We-Meet-In-Toulouse
 RewriteRule ^(.*)$ /2013/01/11/we-meet-in-toulouse? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2013/01/14/Procrastination-John-Perry
 RewriteRule ^(.*)$ /2013/01/14/procrastination-john-perry? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2013/01/16/Accents,-capitales-et-majuscules
-RewriteRule ^(.*)$ /2013/01/16/accents-capitales-et-majuscules? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2013/05/02/La-dictature-des-chiffres
 RewriteRule ^(.*)$ /2013/05/02/la-dictature-des-chiffres? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2013/05/21/https,-analytics-et-commentaires
-RewriteRule ^(.*)$ /2013/05/21/https-analytics-et-commentaires? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2013/07/02/BrownBag-Lunch-.*
 RewriteRule ^(.*)$ /2013/07/02/brownbag-lunch-a-toulouse-et-ailleurs? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2013/09/04/Tests-unitaire-:-je-voudrais-ben,-mais-je-peux-point...
-RewriteRule ^(.*)$ /2013/09/04/tests-unitaire-je-voudrais-ben-mais-je-peux-point? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2013/09/17/Formations-TDD/Clean-Code
 RewriteRule ^(.*)$ /2013/09/17/formations-tdd-clean-code? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2013/09/23/Software-Craftsmanship-.*
@@ -263,17 +241,9 @@ RewriteCond %{QUERY_STRING} post/2014/02/22/La-vision-du-lion
 RewriteRule ^(.*)$ /2014/02/27/la-vision-du-lion? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2014/04/23/Changer-le-monde
 RewriteRule ^(.*)$ /2014/04/23/changer-le-monde? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2014/09/15/Mock-et-singleton
-RewriteRule ^(.*)$ /2014/09/15/mock-et-singleton? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2014/11/04/Oui,-mais-mon-client...
-RewriteRule ^(.*)$ /2014/11/04/oui-mais-mon-client? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2014/09/15/Je-ne-suis-pas-un-codeur
 RewriteRule ^(.*)$ /2014/11/26/je-ne-suis-pas-un-codeur? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2014/12/16/Je-pose-ca-la
-RewriteRule ^(.*)$ /2014/12/16/je-pose-ca-la? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2014/12/16/une-histoire-du-temps
 RewriteRule ^(.*)$ /2014/12/16/une-histoire-du-temps? [R=301,L]
 RewriteCond %{QUERY_STRING} post/2015/01/14/La-tentation-du-toujours-plus-de-regles
 RewriteRule ^(.*)$ /2015/01/14/la-tentation-du-toujours-plus-de-regles? [R=301,L]
-RewriteCond %{QUERY_STRING} post/2015/02/09/Une-formation-les-mains-dedans
-RewriteRule ^(.*)$ /2015/02/10/une-formation-les-mains-dedans? [R=301,L]
