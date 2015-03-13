@@ -8,7 +8,7 @@ categories:
 - "professionel"
 ---
 
-[![Sharpest tool in the shed by Lachlan Donald, on Flickr](https://farm3.staticflickr.com/2851/9408028555_396725f058_n.jpg)](https://www.flickr.com/photos/lox/9408028555){: .left-image}
+[![Sharpest tool in the shed by Lachlan Donald, on Flickr](https://farm3.staticflickr.com/2851/9408028555_396725f058_m.jpg)](https://www.flickr.com/photos/lox/9408028555){: .left-image}
 À chaque fois que je parle de test unitaire, de clean code ou de refactoring, il arrive systématiquement un moment où une voix s'élève de la salle : Moi, je suis convaincu, mais mon client...
 
 Bon dès fois, client est remplacé par chef ou manager, mais ça ne change pas grand chose.
